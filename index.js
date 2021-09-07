@@ -35,4 +35,4 @@ client.on("interactionCreate", async (interaction) => {
   }
 });
 
-client.login(ODg0ODk0NDY3NTQ5NzEyNDI0.YTfIMQ.JazzyFG_wr6UqWI642vFJPPA6DQ);
+client.login("ODg0ODk0NDY3NTQ5NzEyNDI0.YTfIMQ.JazzyFG_wr6UqWI642vFJPPA6DQ");

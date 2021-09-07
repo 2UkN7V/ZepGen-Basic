@@ -1,0 +1,9 @@
+discord.js
+express
+@discordjs/rest
+async
+cors
+discord-api-types
+line-reader
+@discordjs/builders
+firstline
